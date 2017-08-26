@@ -1,8 +1,8 @@
 # hello-stack-appveyor
 
 ## Status
-[https://ci.appveyor.com/api/projects/status/curtisalexander/hello-stack-appveyor?svg=true](https://ci.appveyor.com/api/projects/status/curtisalexander/hello-stack-appveyor?svg=true)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9rp94ob7adhon3ar/branch/master?svg=true)](https://ci.appveyor.com/project/curtisalexander/hello-stack-appveyor/branch/master)
 
 ## Purpose
 **Repo Purpose:** Testing out AppVeyor with Haskell by following [instructions](https://www.snoyman.com/blog/2016/08/appveyor-haskell-windows-ci) provided by Michael Snoyman.

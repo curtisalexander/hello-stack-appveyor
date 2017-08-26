@@ -1,7 +1,5 @@
 # hello-stack-appveyor
 
-## Status
-
 [![Build status](https://ci.appveyor.com/api/projects/status/9rp94ob7adhon3ar/branch/master?svg=true)](https://ci.appveyor.com/project/curtisalexander/hello-stack-appveyor/branch/master)
 
 ## Purpose

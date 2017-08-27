@@ -46,7 +46,9 @@ I would like to do something like the following.
 * Then I would have these binaries pushed / saved to `...`
     * As of now, I am unsure where / how to push these binaries.
     * Perhaps I can just push to the [releases](https://github.com/curtisalexander/hello-stack-appveyor/releases) section of the project repo).
-    * This is definitely the area I'm most fuzzy as to how I can accomplish.
+    * This is definitely the area I'm most fuzzy as to how I can accomplish.  Will need to review the following AppVeyor docs.
+        * [Packaging artifacts](https://www.appveyor.com/docs/packaging-artifacts/)
+        * [Publishing artifacts to GitHub releases](https://www.appveyor.com/docs/deployment/github/)
 * Finally, I would install the binaries.
     * Windows
         * Create an [app manifest](https://github.com/lukesampson/scoop/wiki/App-Manifests) that points to the newly created binaries.

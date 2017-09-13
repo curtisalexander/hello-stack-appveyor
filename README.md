@@ -14,9 +14,9 @@ For instance, on Windows I would like to have the ability to print `x` # of rows
 
 And yes, I can use some programming language to stream rows of a csv -- such as using [csvkit](http://csvkit.readthedocs.io/en/latest/) within a Python environment -- but I would like to have a binary that I can distribute to team members who don't have Python setup on their machines.
 
+Even though many command line tools, such as `head`, already exist for Windows, I may still want to create Haskell versions as a learning exercise.
 
 ## Aside - [Scoop](http://scoop.sh) for Windows
-Even though many command line tools, such as `head`, already exist for Windows, I may still want to create Haskell versions as a learning exercise.
 
 ### `head` on Windows Today
 To get the `head` command on Windows, first install [scoop](http://scoop.sh) by running the following from Powershell 3
